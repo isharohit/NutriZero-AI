@@ -1,7 +1,7 @@
 # 🌿 NutriZero AI — UN SDG 2 Zero Hunger Food & Nutrition Assistant
 
 [![UN SDG 2: Zero Hunger](https://img.shields.io/badge/UN%20SDG-Goal%202%3A%20Zero%20Hunger-DDA63A?style=for-the-badge&logo=unitednations&logoColor=white)](https://sdgs.un.org/goals/goal2)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://yashpanchal22.github.io/NutriZero-AI/)
+
 [![React 18](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
